@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmailValidator</string>
+    <string name="valid">Valid Email</string>
+    <string name="invalid">Invalid Email</string>
+    <string name="enter_email">Enter email</string>
+    <string name="validate">Validate</string>
+</resources>
